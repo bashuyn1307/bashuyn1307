@@ -27,10 +27,6 @@
 - **ESP32 Project** — Embedded systems experiments
 - **DSA Practice** — Algorithms and data structures
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/bashuyn1307
