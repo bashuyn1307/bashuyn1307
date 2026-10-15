@@ -1,5 +1,5 @@
 
-# Hey there! I'm Your Name 👋
+# Hey there! I'm Ba Huy Nguyen 👋
 
 🎓 Computer Engineering Student @ VNU-UET
 
